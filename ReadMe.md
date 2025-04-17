@@ -19,7 +19,7 @@ Talland College <br>Software Developer<br>Student Developer
 ![](https://github-contributor-stats.vercel.app/api?username=Thijskees&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ### 👀 Views
-[![](https://visitcount.itsvg.in/api?id=Thijskees&icon=2&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Thijskees&abbreviated=true)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
