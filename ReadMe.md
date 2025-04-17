@@ -10,7 +10,7 @@ Talland College <br>Software Developer<br>Student Developer
 # 📊 GitHub Statistieken:
 ![](https://github-readme-stats.vercel.app/api?username=Thijskees&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Thijskees&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thijskees&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thijskees&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=Thijskees&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ### 👀 Views
