@@ -11,75 +11,25 @@
   <img src="https://komarev.com/ghpvc/?username=thijskees&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
-<h2 align="center">Git Stats</h2>
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app?user=thijskees&theme=dark&hide_border=true&background=00000000&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&dates=1E90FF" />
-  <img src="https://nirzak-streak-stats.vercel.app?user=thijskees&theme=dark&hide_border=true&background=00000000&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&dates=1E90FF" alt="GitHub Streak" />
-</picture>
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app?user=Thijskees&theme=dark&hide_border=true&background=00000000&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&dates=1E90FF" /> <img src="https://nirzak-streak-stats.vercel.app?user=Thijskees&theme=dark&hide_border=true&background=00000000&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&dates=1E90FF" alt="GitHub Streak" /> </picture>
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thijskees&custom_title=Thijs's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=00000000&color=1E90FF&line=1E90FF&point=1E90FF&area_color=00000000&title_color=1E90FF&area=true" alt="GitHub Activity Graph" />
 
-  <br>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thijskees&hide=html&hide_border=true&layout=compact&langs_count=8&theme=github-dark&bg_color=00000000" alt="Top Languages">
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thijskees&theme=github_dark&hide_border=true&bg_color=00000000" alt="Repos Per Language">
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thijskees&theme=github_dark&hide_border=true&bg_color=00000000" alt="Most Commit Language">
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-stats.vercel.app/api?username=thijskees&hide_border=true&border_radius=15&show_icons=true&theme=github-dark&bg_color=00000000" alt="Thijs's GitHub stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thijskees&theme=github_dark&hide_border=true&bg_color=00000000">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thijskees&custom_title=Thijskees%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=00000000&color=1E90FF&line=1E90FF&point=1E90FF&area_color=00000000&title_color=1E90FF&area=true" alt="GitHub Activity Graph" />
+
+<br>
+
+<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thijskees&hide=html&hide_border=true&layout=compact&langs_count=8&theme=github-dark&bg_color=00000000" alt="Top Languages"> </td> <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thijskees&theme=github_dark&hide_border=true&bg_color=00000000" alt="Repos Per Language"> </td> <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thijskees&theme=github_dark&hide_border=true&bg_color=00000000" alt="Most Commit Language"> </td> </tr> </table>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Thijskees&hide_border=true&border_radius=15&show_icons=true&theme=github-dark&bg_color=00000000" alt="Thijskees GitHub Stats">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thijskees&theme=github_dark&hide_border=true&bg_color=00000000" alt="Profile Details">
+
 </div>
 
-<h2 align="center">Top Repositories</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/thijskees/discordbot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=thijskees&repo=fast-gemini-nano&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/thijskees/Thijskees">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=thijskees&repo=Weather-3d-ai-app&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/thijskees/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=thijskees&repo=moviedjangoai&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/thijskees/speech-to-text">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=thijskees&repo=speech-to-text&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/thijskees/SmolLM">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=thijskees&repo=SmolLM&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/thijskees/Llama-3.2_running_locally">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=thijskees&repo=Llama-3.2_running_locally&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<div align="center"> <table> <tr> <td> <a href="https://github.com/Thijskees/discordbot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thijskees&repo=discordbot&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" /> </a> </td> <td> <a href="https://github.com/Thijskees/Weather-3d-ai-app"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thijskees&repo=Weather-3d-ai-app&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" /> </a> </td> </tr> <tr> <td> <a href="https://github.com/Thijskees/moviedjangoai"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thijskees&repo=moviedjangoai&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" /> </a> </td> <td> <a href="https://github.com/Thijskees/speech-to-text"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thijskees&repo=speech-to-text&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" /> </a> </td> </tr> <tr> <td> <a href="https://github.com/Thijskees/SmolLM"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thijskees&repo=SmolLM&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" /> </a> </td> <td> <a href="https://github.com/Thijskees/Llama-3.2_running_locally"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thijskees&repo=Llama-3.2_running_locally&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" /> </a> </td> </tr> </table> </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
