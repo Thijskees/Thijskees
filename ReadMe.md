@@ -81,10 +81,18 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app?user=thijskees&theme=dark&hide_border=true&background=EB545400" />
+    <img alt="github-snake" src="https://nirzak-streak-stats.vercel.app/?user=thijskees&theme=light&hide_border=true" />
 </picture>
+
+
+
+<div style="display:inline-block; overflow:hidden; border-radius:5px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thijskees/thijskees/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/thijskees/thijskees/output/github-snake.svg" />
+  </picture>
+</div>
 
 <h2 align="center">Developer Languages</h2>
 <p align="center">
