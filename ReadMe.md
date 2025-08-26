@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hoi!&height=100&width=300&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Halloe!!&height=100&width=300&section=header"/>
 </p>
 
 
@@ -13,7 +13,6 @@ Software Developer<br>Student Developer
 ![](https://github-readme-stats.vercel.app/api?username=Thijskees&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Thijskees&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=onedark&layout=compact)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=Thijskees&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ### 👀 Views
 ![](https://komarev.com/ghpvc/?username=Thijskees&abbreviated=true)
