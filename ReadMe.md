@@ -16,7 +16,7 @@ Software Developer<br>Student Developer
  
   <img src="https://streak-stats.demolab.com/?user=thijskees&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thijskees&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thijskees&custom_title=Thijs's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
 <table>
@@ -35,7 +35,7 @@ Software Developer<br>Student Developer
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=thijskees&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=thijskees&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Thijs's GitHub stats">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thijskees&theme=highcontrast&hide_border=true">
 
