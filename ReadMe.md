@@ -13,12 +13,13 @@
 
 <h2 align="center">Git Stats</h2>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app?user=thijskees&theme=dark&hide_border=true&background=00000000" />
-    <img src="https://nirzak-streak-stats.vercel.app?user=thijskees&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app?user=thijskees&theme=dark&hide_border=true&background=00000000&ring=1E90FF&fire=1E90FF" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=thijskees&theme=dark&hide_border=true&background=00000000&ring=1E90FF&fire=1E90FF" alt="GitHub Streak" />
+</picture>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thijskees&custom_title=Thijs's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=00000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=00000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thijskees&custom_title=Thijs's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=00000000&color=1E90FF&line=1E90FF&point=1E90FF&area_color=00000000&title_color=1E90FF&area=true" alt="GitHub Activity Graph" />
+
   <br>
   <table>
     <tr>
