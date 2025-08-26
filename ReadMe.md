@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=300&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=100&width=300&section=header"/>
 </p>
 
 <h1 align="center">Hi, I'm Thijs 👋</h1>
@@ -100,5 +100,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=100&section=footer"/>
 </p>
