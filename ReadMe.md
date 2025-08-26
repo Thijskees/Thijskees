@@ -44,12 +44,12 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/thijskees/fast-gemini-nano">
+        <a href="https://github.com/thijskees/discordbot">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=thijskees&repo=fast-gemini-nano&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/thijskees/Weather-3d-ai-app">
+        <a href="https://github.com/thijskees/Thijskees">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=thijskees&repo=Weather-3d-ai-app&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" />
         </a>
       </td>
