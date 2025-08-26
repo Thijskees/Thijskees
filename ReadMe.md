@@ -1,11 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=300&section=header"/>
 </p>
-
-
-# 🍃 Over mij:
-Software Developer<br>Student Developer
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thijskees&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
@@ -83,26 +78,20 @@ Software Developer<br>Student Developer
 
 
 
-### GitHub Contribution Chart
-<a href="https://github.com/thijskees">
-    <img src="https://ghchart.rshah.org/thijskees" alt="thijskees's GitHub Contribution Chart">
-</a>
-
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
-  <a href="https://gitroll.io/profile/uQ8UJvo11fpOJ2YyqqUcaqFjkNqp1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uQ8UJvo11fpOJ2YyqqUcaqFjkNqp1?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
-  <img src="https://myreadme.vercel.app/api/embed/thijskees?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="thijskees's GitHub Stats">
-      <img src="https://github-readme-bento.vercel.app/stats/thijskees?theme=dark" alt="thijskees's GitHub Stats">
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=thijskees" alt="Advanced GitHub Stats for thijskees" width="400">
-
-
-</details>
-
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/thijskees/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/thijskees/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/thijskees/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 <br>
 
 
