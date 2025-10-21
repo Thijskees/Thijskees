@@ -21,7 +21,7 @@
 
 <br>
 
-<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thijskees&hide=html&hide_border=true&layout=compact&langs_count=8&theme=github-dark&bg_color=00000000" alt="Top Languages"> </td> <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thijskees&theme=github_dark&hide_border=true&bg_color=00000000" alt="Repos Per Language"> </td> <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thijskees&theme=github_dark&hide_border=true&bg_color=00000000" alt="Most Commit Language"> </td> </tr> </table>
+<table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thijskees&theme=github_dark&hide_border=true&layout=compact&bg_color=00000000" alt="Top Languages"> </td> <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thijskees&theme=github_dark&hide_border=true&bg_color=00000000" alt="Repos Per Language"> </td> <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thijskees&theme=github_dark&hide_border=true&bg_color=00000000" alt="Most Commit Language"> </td> </tr> </table>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Thijskees&theme=github_dark&hide_border=true&layout=compact&bg_color=00000000" alt="Thijskees GitHub Stats">
 
