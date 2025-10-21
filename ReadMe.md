@@ -23,13 +23,33 @@
 
 <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thijskees&hide=html&hide_border=true&layout=compact&langs_count=8&theme=github-dark&bg_color=00000000" alt="Top Languages"> </td> <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thijskees&theme=github_dark&hide_border=true&bg_color=00000000" alt="Repos Per Language"> </td> <td> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thijskees&theme=github_dark&hide_border=true&bg_color=00000000" alt="Most Commit Language"> </td> </tr> </table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Thijskees&hide_border=true&border_radius=15&show_icons=true&theme=github-dark&bg_color=00000000" alt="Thijskees GitHub Stats">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Thijskees&hide_border=true&border_radius=15&show_icons=true&theme=github-dark&bg_color=00000000" alt="Thijskees GitHub Stats"> -->
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thijskees&theme=github_dark&hide_border=true&bg_color=00000000" alt="Profile Details">
 
 </div>
 
-<div align="center"> <table> <tr> <td> <a href="https://github.com/Thijskees/discordbot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thijskees&repo=folderrenamer&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" /> </a> </td> <td> <a href="https://github.com/Thijskees/Thijskees"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thijskees&repo=discordbot&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" /> </a> </td> </tr> <tr> <td> <a href="https://github.com/Thijskees/Thijskees"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thijskees&repo=moviedjangoai&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" /> </a> </td> <td> <a href="https://github.com/Thijskees/speech-to-text"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thijskees&repo=speech-to-text&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" /> </a> </td> </tr> <tr> <td> <a href="https://github.com/Thijskees/SmolLM"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thijskees&repo=SmolLM&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" /> </a> </td> <td> <a href="https://github.com/Thijskees/Llama-3.2_running_locally"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thijskees&repo=Llama-3.2_running_locally&theme=github-dark&hide_border=true&border_radius=15&bg_color=00000000" /> </a> </td> </tr> </table> </div>
+<p align="center">
+  <a href="https://github.com/Thijskees/folderrenamer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thijskees&repo=folderrenamer&theme=github-dark&hide_border=true&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/Thijskees/discordbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thijskees&repo=discordbot&theme=github-dark&hide_border=true&bg_color=00000000" />
+  </a>
+  <!-- <a href="https://github.com/Thijskees/moviedjangoai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thijskees&repo=moviedjangoai&theme=github-dark&hide_border=true&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/Thijskees/speech-to-text">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thijskees&repo=speech-to-text&theme=github-dark&hide_border=true&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/Thijskees/SmolLM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thijskees&repo=SmolLM&theme=github-dark&hide_border=true&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/Thijskees/Llama-3.2_running_locally">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Thijskees&repo=Llama-3.2_running_locally&theme=github-dark&hide_border=true&bg_color=00000000" />
+  </a> -->
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
