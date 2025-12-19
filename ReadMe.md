@@ -2,10 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=100&section=header"/>
 </p> -->
 
-<h1 align="center">Hoi Hoi! 👋</h1>
-
 <p align="center">
-  <b>Welkom! (<a href="https://github.com/thijskees">thijskees</a>)</b>
+  <h1 align="center">Welkom! Bij mijn Profiel <a href="https://github.com/thijskees">Thijskees</a></h1>
 </p>
 
 <p align="center">
