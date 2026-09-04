@@ -17,16 +17,17 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thijskees&theme=dark&hide_border=true&background=00000000&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideNums=1E90FF&sideLabels=1E90FF&dates=1E90FF"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thijskees&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thijskees&bg_color=00000000&color=1E90FF&line=1E90FF&point=1E90FF&area=true&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thijskees&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thijskees&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Thijskees&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=1E90FF&icon_color=1E90FF"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thijskees&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&title_color=1E90FF"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thijskees&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thijskees&theme=github_dark&utcOffset=1"/>
 </p>
 
 
